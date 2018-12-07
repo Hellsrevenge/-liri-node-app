@@ -572,3 +572,288 @@ The song's name: The Other Side (with MAX & Ty Dolla $ign)
 link to Spotify: https://api.spotify.com/v1/tracks/469YIE4l6dLgsEIXRqeFSa
 ====================================================================
  
+ --=========< /| [ - LIRI SEARCH - ] |/ >=========--
+ 
+            [  Command  ]-=-[ concert-this ]
+            [ Arguments ]-=-[ muse ]
+ 
+Venue:   iHeartRadio ALTer Ego 2019
+Address: 3900 S Prairie Ave Inglewood 90301
+Date:    01/19/2019
+============================================================
+Venue:   Talking Stick Resort Arena
+Address: 196 E Jackson St Phoenix 85004
+Date:    02/26/2019
+============================================================
+Venue:   Golden 1 Center
+Address: 545 5th St Sacramento 95814
+Date:    03/07/2019
+============================================================
+Venue:   Aragon Ballroom
+Address: 4820 N Winthrop Ave Chicago 60640-3606
+Date:    12/09/2018
+============================================================
+Venue:   Vivint Smart Home Arena
+Address: 350 W 100 S Salt Lake City 84101
+Date:    02/28/2019
+============================================================
+Venue:   American Airlines Center
+Address: 2500 Victory Ave Dallas 75219-7601
+Date:    02/24/2019
+============================================================
+Venue:   BB&T Center
+Address: 99 Panther Pkwy Sunrise 33323-5315
+Date:    03/24/2019
+============================================================
+Venue:   Etihad Stadium
+Address: Betfred Manchester M3 2BY
+Date:    06/08/2019
+============================================================
+Venue:   Capital One Arena
+Address: Ellipse Rd NW Washington 20006
+Date:    04/02/2019
+============================================================
+Venue:   Matmut Atlantique
+Address: Matmut Atlantique Bordeaux 33000;33100;33300;33800
+Date:    07/16/2019
+============================================================
+Venue:   Festivalpark Werchter
+Address: Nieuwebaan Rotselaar 3110;3111;3118
+Date:    06/30/2019
+============================================================
+Venue:   Goffertpark
+Address: Slotemaker de Bruïneweg Nijmegen 6532AD
+Date:    06/27/2019
+============================================================
+Venue:   Oracle Arena
+Address: 7000 Coliseum Way Oakland 94621-1917
+Date:    03/09/2019
+============================================================
+Venue:   State Farm Arena
+Address: 206 Washington St SW Atlanta 30334-9007
+Date:    03/26/2019
+============================================================
+Venue:   Orange Vélodrome
+Address: Stade Vélodrome Marseille 13008
+Date:    07/09/2019
+============================================================
+Venue:   Wanda Metropolitano Stadium
+Address: Estadio Olímpico de Madrid Madrid 28022
+Date:    07/26/2019
+============================================================
+Venue:   Little Caesars Arena
+Address: 22 Cadillac Sq Detroit 48226-2813
+Date:    04/04/2019
+============================================================
+Venue:   Scotiabank Arena
+Address: 40 Bay St Toronto M5J 2X2
+Date:    03/28/2019
+============================================================
+Venue:   Videotron Centre
+Address: 282 Boul Wilfrid-Hamel Québec G1L
+Date:    03/31/2019
+============================================================
+Venue:   Stade de France
+Address: Rue des Marronniers Saint-Denis 93200;93210
+Date:    07/06/2019
+============================================================
+Venue:   TD Garden
+Address: 100 Causeway St Boston 02114-1302
+Date:    04/10/2019
+============================================================
+Total events: 21
+ 
+ --=========< /| [ - LIRI SEARCH - ] |/ >=========--
+ 
+            [  Command  ]-=-[ spotify-this-song ]
+            [ Arguments ]-=-[ unforgiven ]
+ 
+Artist(s): Metallica
+The song's name: The Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/2lF8jQFhIjpmQa501sYXxR
+====================================================================
+Artist(s): Metallica
+The song's name: The Unforgiven II
+link to Spotify: https://api.spotify.com/v1/tracks/0IGXkVRn0uCsgn4FvIfpgB
+====================================================================
+Artist(s): Metallica
+The song's name: The Unforgiven III
+link to Spotify: https://api.spotify.com/v1/tracks/6guXhXMAHU4QYaEsobnS6v
+====================================================================
+Artist(s): Sevendust
+The song's name: Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/7cLSWmXRyITsZQkYr19pW5
+====================================================================
+Artist(s): Beck
+The song's name: Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/4CffWSgPGSJXvBIJGP5O6a
+====================================================================
+Artist(s): RÜFÜS DU SOL
+The song's name: Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/7D0TNiYDPriaY5126DGKJw
+====================================================================
+Artist(s): Apocalyptica
+The song's name: The Unforgiven - Live
+link to Spotify: https://api.spotify.com/v1/tracks/6GIOzwNgqQLi7eE0x0Wx98
+====================================================================
+Artist(s): Ghost Nation
+The song's name: Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/7187AJ4dx3wEqADjExHP30
+====================================================================
+Artist(s): Alborosie
+Artist(s): Raging Fyah
+The song's name: The Unforgiven (feat. Raging Fyah)
+link to Spotify: https://api.spotify.com/v1/tracks/59ZLlnNh4oAbEKouRqQ3tX
+====================================================================
+Artist(s): Creed
+The song's name: Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/6KyeeKGjt3itK1mes8INQt
+====================================================================
+Artist(s): Two Steps from Hell
+Artist(s): Thomas Bergersen
+The song's name: Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/0Ib9P2lSlqC6F2xCr5PcOI
+====================================================================
+Artist(s): Apocalyptica
+The song's name: The Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/3Qav4XRh4LiPhZQH9JIAXG
+====================================================================
+Artist(s): X-Raided
+The song's name: Macaframa
+link to Spotify: https://api.spotify.com/v1/tracks/2jpHhgyoBAml7ubmCeE5ai
+====================================================================
+Artist(s): T.Woods
+Artist(s): Abstract
+The song's name: Show up (feat. Abstract)
+link to Spotify: https://api.spotify.com/v1/tracks/2qHR8DMsHtqi0n5k50QB9k
+====================================================================
+Artist(s): Metallica
+The song's name: The Unforgiven (Live in Mexico City)
+link to Spotify: https://api.spotify.com/v1/tracks/0vJLun1cVa9x6bTKQH8mKM
+====================================================================
+Artist(s): Blakwall
+The song's name: The Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/6QWwv5PCoyPQBMtwWJZItV
+====================================================================
+Artist(s): Cormega
+The song's name: Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/5w3K4AB9mX6eS2euVP80VH
+====================================================================
+Artist(s): Jack-o-Lantern
+The song's name: Unforgiven Soul
+link to Spotify: https://api.spotify.com/v1/tracks/1eo2frxeiaJ3FM7r3lSjDz
+====================================================================
+Artist(s): T.Woods
+Artist(s): Jay Holmes
+The song's name: Anybody (feat. Jay Holmes)
+link to Spotify: https://api.spotify.com/v1/tracks/5h5W0gecmKTr6iBirJR1Wx
+====================================================================
+Artist(s): Trapt
+The song's name: Unforgiven
+link to Spotify: https://api.spotify.com/v1/tracks/4ffgBVlG3RkUVO8QvBnLIN
+====================================================================
+ 
+ --=========< /| [ - LIRI SEARCH - ] |/ >=========--
+ 
+            [  Command  ]-=-[ movie-this ]
+            [ Arguments ]-=-[ dogma ]
+ 
+Title: Dogma
+Year: 1999
+imdbRating: 7.3
+Rotten Tomatoes: 67%
+Country: USA
+Language: English
+Plot: An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loop-hole and reenter Heaven.
+Actors: Bud Cort, Barret Hackney, Jared Pfennigwerth, Kitao Sakurai
+============================================================
+ 
+ --=========< /| [ - LIRI SEARCH - ] |/ >=========--
+ 
+            [  Command  ]-=-[ spotify-this-song ]
+            [ Arguments ]-=-[ "I Want it That Way" ]
+ 
+Artist(s): Backstreet Boys
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+====================================================================
+Artist(s): Backstreet Boys
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+====================================================================
+Artist(s): Anthem Lights
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+====================================================================
+Artist(s): Tyler and Mark
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy
+====================================================================
+Artist(s): Dynamite Boy
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/0F5f29urvisi4TiwJOQZWN
+====================================================================
+Artist(s): "Weird Al" Yankovic
+The song's name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+link to Spotify: https://api.spotify.com/v1/tracks/4vHb50VkxDzHYwLiHfWczK
+====================================================================
+Artist(s): Backstreet Boys
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5
+====================================================================
+Artist(s): Backstreet Boys
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/2KMwtsWwL5QDtSpm814tju
+====================================================================
+Artist(s): Manuel Costa
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/4Sp4RxkWukxqJykl0ySNQi
+====================================================================
+Artist(s): Boyce Avenue
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/16COzZ7jCVn3O8b8ZgviOx
+====================================================================
+Artist(s): Glee Cast
+The song's name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+link to Spotify: https://api.spotify.com/v1/tracks/3t7m7AzV2ntuI9fIT6KREP
+====================================================================
+Artist(s): Steel Panther
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/0448cNUvZGCAlUpIPO5kdY
+====================================================================
+Artist(s): MaxLife
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/5MZFb9O6bnPjoDMjL0K2iM
+====================================================================
+Artist(s): Scott Bradlee's Postmodern Jukebox
+Artist(s): Shoshana Bean
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/1Le3uYU5NU9cXXtYeSWnEM
+====================================================================
+Artist(s): #90s Update
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/0rZTeneJh7IM5SdoabMcYA
+====================================================================
+Artist(s): Scary Pockets
+Artist(s): Casey Abrams
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/4IWQXV01Lp0wsXCXo09EBr
+====================================================================
+Artist(s): "Weird Al" Yankovic
+The song's name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+link to Spotify: https://api.spotify.com/v1/tracks/1vaico2C72imYowF4Kv04V
+====================================================================
+Artist(s): Backstreet Boys
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/75W4IDdKhHvRQZpaDx9YPg
+====================================================================
+Artist(s): Landon Austin & Julia Sheer
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/1zUJq8Ap2u9MyDo0HJxVU5
+====================================================================
+Artist(s): Scott Bradlee's Postmodern Jukebox
+Artist(s): Shoshana Bean
+The song's name: I Want It That Way
+link to Spotify: https://api.spotify.com/v1/tracks/6FNTpwQU3VNZvezUPYMjPY
+====================================================================
+ 
