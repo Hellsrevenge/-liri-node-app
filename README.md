@@ -23,6 +23,8 @@ You need to get the following API Keys to load Liri:
 
      * Date of the Event)
      
+     * ![](assets/Screen%20Shot%202018-12-07%20at%2000.21.10.png) 
+       
    * `spotify-this-song`[song name here]
    (You will get the following information about the song in your terminal/bash window
 
@@ -33,6 +35,8 @@ You need to get the following API Keys to load Liri:
      * A preview link of the song from Spotify
 
      * The album that the song is from)
+     
+      * ![](assets/Screen%20Shot%202018-12-07%20at%2000.24.56.png) 
 
    * `movie-this`[movie name here]
    (This will output the following information to your terminal/bash window:
@@ -44,8 +48,11 @@ You need to get the following API Keys to load Liri:
        * Language of the movie.
        * Plot of the movie.
        * Actors in the movie)
+       * ![](assets/Screen%20Shot%202018-12-07%20at%2000.26.32.png) 
 
    * `do-what-it-says`
    (Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.It will run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.)
+   ![](assets/Screen%20Shot%202018-12-07%20at%2000.27.17.png) 
 
 In addition, all data will be logged to a `log.txt`file.
+![](assets/Screen%20Shot%202018-12-07%20at%2000.28.08.png) 
